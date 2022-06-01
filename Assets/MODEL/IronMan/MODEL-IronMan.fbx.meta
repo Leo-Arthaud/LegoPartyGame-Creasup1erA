@@ -6,7 +6,57 @@ ModelImporter:
   - first:
       74: 1827226128182048838
     second: Take 001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK-BlackPart-MAT
+    second: {fileID: 2100000, guid: edd0b6d1ace5bb64c93ba0e9c136c1a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK-BluePart-MAT
+    second: {fileID: 2100000, guid: c1d14cb8ffe76184a89953f76fb3158d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK-DarkGreyPart-MAT
+    second: {fileID: 2100000, guid: 0537c8399a59ab14f80ee26de7a39ee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK-DarkRedPart-MAT
+    second: {fileID: 2100000, guid: a90c9e42d92425e4f9ae31fd127e3b63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK-LightGrey-MAT
+    second: {fileID: 2100000, guid: 734abcf8199892d4e8045ef8538a1a34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK-OrangePart-METAL
+    second: {fileID: 2100000, guid: be8af68f72b70e7418990e3cdc754bf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK-RedPart-MAT
+    second: {fileID: 2100000, guid: 3ac73fb421ceedc4e8bcbf81a84bc78e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRICK-YellowPart-MAT
+    second: {fileID: 2100000, guid: 2985a352a53b740458ab7e3d43172114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLID-DARK_TAN
+    second: {fileID: 2100000, guid: 425d7b459c5cbd545bccf481b5389543, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SOLID-ORANGE
+    second: {fileID: 2100000, guid: 11cce532df57e0d488399033c4a188a5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -76,7 +126,7 @@ ModelImporter:
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 2
   referencedClips: []
-  importAnimation: 1
+  importAnimation: 0
   humanDescription:
     serializedVersion: 3
     human: []
