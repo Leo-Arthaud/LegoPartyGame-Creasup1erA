@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 5191276840767719888}
   m_Layer: 0
   m_Name: Projectiles-PhysX
-  m_TagString: BALL
+  m_TagString: BALLJ1
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -546,7 +546,7 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5991516146239071818}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: b6816acb505c45349af623a5765ba5b8, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
